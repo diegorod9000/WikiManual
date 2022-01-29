@@ -1,0 +1,14 @@
+.rect1 {
+  position: absolute;
+  width: 1156px;
+  height: 613px;
+  left: 195px;
+  top: 230px;
+  align-self: center;
+
+  background: var(--primary);
+}
+
+h1 {
+  text-align: center;
+}

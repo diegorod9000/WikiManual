@@ -1,0 +1,12 @@
+.quest-container {
+  background-color: var(--secondary);
+  position: relative;
+  
+}
+.question-content{
+  width: 50%;
+  margin-right: 2%;
+  margin-bottom: 0%;
+  float: left;
+}
+

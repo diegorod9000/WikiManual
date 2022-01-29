@@ -1,0 +1,16 @@
+.question-box {
+  width: 200px;
+  height: 60px;
+  /* right: 10px; */
+  /* left: 20px;
+  top: 0px; */
+
+  border-radius: 30px;
+  /* margin: 0px 10px; */
+  background-color: var(--secondary);
+  font-size: 30px;
+}
+
+p {
+  color: var(--black);
+}

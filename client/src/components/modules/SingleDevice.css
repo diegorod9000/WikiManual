@@ -1,0 +1,50 @@
+.dev-img {
+  /* position: absolute; */
+
+  width: 282px;
+  height: 236px;
+  left: 20px;
+  top: 104px;
+
+  border-radius: 30px;
+  margin: 0px 10px;
+  background-color: var(--secondary);
+}
+.dev-img > p {
+  padding: 10px;
+  font-size: 20px;
+  color: (var--black);
+  /* align-self: center; */
+}
+
+.dev-img > img {
+  width: 242px;
+  height: 216px;
+
+  padding: 8px;
+
+  border-radius: 30px;
+  margin: 0px 10px;
+  background-color: var(--secondary);
+}
+
+.text-block {
+  padding: 10px;
+  color: var(--black);
+}
+
+.hover1:hover {
+  color: var(--primary--dim);
+}
+
+.flexbox {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+
+  flex: 100px;
+}
+
+a {
+  text-decoration: none;
+}

@@ -1,0 +1,33 @@
+/* Fill me in :) */
+/* body {
+  padding-bottom: 25%;
+} */
+.rect1 {
+  position: absolute;
+  width: 581px;
+  height: 65%;
+  left: 112px;
+  top: 220px;
+
+  background: var(--primary);
+  border-radius: 10px;
+}
+
+.rect2:hover {
+  background: pink;
+}
+
+.rect2 {
+  position: absolute;
+  width: 581px;
+  height: 65%;
+  left: 815px;
+  top: 220px;
+
+  background: var(--primary);
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+}

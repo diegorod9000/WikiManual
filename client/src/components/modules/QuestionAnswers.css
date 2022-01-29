@@ -1,0 +1,12 @@
+.click-to-show {
+	cursor: pointer;
+	
+  }
+
+.answers{
+	width: 100%;
+	height: 0%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	display: flex;
+}

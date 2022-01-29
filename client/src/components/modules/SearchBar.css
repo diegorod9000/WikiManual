@@ -1,0 +1,32 @@
+.SearchBar-container {
+  background-color: var(--secondary);
+  position: absolute;
+  top: 15%;
+  left: 35%;
+  /* right: 20%; */
+  padding: var(--m);
+  font-size: 32px;
+  border-radius: 40px;
+  color: var(--primary--dim);
+}
+.next-button {
+  background-color: var(--secondary);
+  position: absolute;
+  top: 15%;
+  left: 65%;
+  /* right: 20%; */
+  padding: var(--m);
+  font-size: 32px;
+  border-radius: 40px;
+  color: var(--primary--dim);
+}
+
+.text {
+  position: absolute;
+  top: 22.5%;
+  left: 37%;
+}
+
+::placeholder {
+  color: var(--primary--dim);
+}

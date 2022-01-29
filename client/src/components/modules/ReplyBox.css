@@ -1,0 +1,12 @@
+.answerSubmit {
+  padding: var(--s);
+  margin: var(--s);
+  background: var(--secondary);
+  border: 1px solid #000000;
+  float: right;
+  box-sizing: border-box;
+  border-radius: 18px;
+  font-size: 15px;
+  text-align: center;
+  width:50%
+}
